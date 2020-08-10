@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<nav
+  className="navbar bg-primary"
+>
+  <h1>
+    <i
+      className="fab fa-github"
+    />
+     
+    iTunes Search API
+  </h1>
+</nav>
+`;
